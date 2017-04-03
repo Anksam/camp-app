@@ -15,7 +15,7 @@ var HomepageComponent = (function () {
     HomepageComponent = __decorate([
         core_1.Component({
             selector: 'homepage',
-            template: '<h1>Welcome Home</h1>'
+            template: '<h1>Home</h1>'
         }), 
         __metadata('design:paramtypes', [])
     ], HomepageComponent);
